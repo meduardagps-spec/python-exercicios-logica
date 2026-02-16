@@ -1,16 +1,18 @@
-# Fundamentos de Python
+# Python - Fundamentos de Lógica
 
-Repositório com exercícios práticos de lógica de programação desenvolvidos durante meus estudos em Python.
+Repositório com exercícios práticos desenvolvidos durante meus estudos em Python.
 
-📌 Conteúdos praticados:
+## Conteúdos praticados:
+- Variáveis
 - Estruturas condicionais
-- Laços de repetição
 - Listas
 - Funções
-- Validação de dados
 - Manipulação básica de dados
 
-Os exercícios foram realizados em ambientes como PyCharm e DeepNote com o objetivo de consolidar a base lógica e estrutural da linguagem.
+
+Os exercícios foram desenvolvidos em ambientes como PyCharm e DeepNote com foco no fortalecimento da base lógica e resolução de problemas.
+
+Objetivo: consolidar fundamentos para evoluir em automações, integração de dados e desenvolvimento de soluções com IA.
 
 
 
