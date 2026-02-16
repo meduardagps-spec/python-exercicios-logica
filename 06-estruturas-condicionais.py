@@ -15,3 +15,4 @@ if nc==nu:
 else:
 
     print("Que pena, eu pensei no {}! Você errou!".format(nc))
+
