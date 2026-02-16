@@ -1,4 +1,5 @@
 v=float(input('Qual a sua velocidade em km/h?'))
+
 if v>80:
     t=v-80
     print("Você está acima da velocidade permitida!")
