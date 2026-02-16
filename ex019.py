@@ -1,9 +1,10 @@
 from random import choice
-a1=str(input('Nome do primeiro aluno:'))
-a2=str(input('Nome do segundo aluno:'))
-a3=str(input('Nome do terceiro aluno:'))
-a4=str(input('Nome do quarto aluno:'))
-Lista=[a1,a2,a3,a4]
-escolhido=choice(Lista)
-print('A pessoa sorteada é {}!'.format(escolhido))
+aluno_1 = str(input('Nome do primeiro aluno:'))
+aluno_2 = str(input('Nome do segundo aluno:'))
+aluno_3 = str(input('Nome do terceiro aluno:'))
+aLundo_4 = str(input('Nome do quarto aluno:'))
+Lista=[ aluno_1 , aluno_2 , aluno_3 , aluno_4 ]
+escolhido = choice(Lista)
+print(f'A pessoa sorteada é {escolhido}!')
+
 
