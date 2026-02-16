@@ -13,4 +13,5 @@ if nc==nu:
     print("Parabéns! Você acertou!")
 
 else:
+
     print("Que pena, eu pensei no {}! Você errou!".format(nc))
